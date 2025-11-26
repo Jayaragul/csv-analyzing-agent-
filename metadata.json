@@ -1,0 +1,5 @@
+{
+  "name": "DataMind Agent",
+  "description": "An AI-powered Analytics Agent capable of Data Science, Line Balancing, NLP (NER/Sentiment), and Web-based Market Research. Supports CSV, Excel, and PDF.",
+  "requestFramePermissions": []
+}
